@@ -1,4 +1,4 @@
-This repository contains documents that are helpful to users in understanding and navigating the Middle English Text Series editorial practices (print and digital) and workflows.
+This repository contains documents that are helpful to users in understanding and navigating the Middle English Text Series editorial practices (print and digital) and workflows. Documentation for our production workflows is stored in the public-production-documentation repository.
 
 - METS Data Dictionary: this spreadsheet contains the various metadata fields that we have assigned to texts and editions. It is updated as needed.
 Current version: 10/3/2024
