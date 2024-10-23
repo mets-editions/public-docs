@@ -6,4 +6,4 @@ Current version: 10/17/2024
 
 - METS TEI element dictionary: this document contains all TEI elements used to encode METS texts. Current version: 10/9/2024
 
-- METS Editions metadata spreadsheet: this spreadsheet contains the metadata assigned to each edition and text. It is updated as needed. Current version: 10/3/2024
+- METS Editions metadata spreadsheet: this spreadsheet contains the metadata assigned to each edition and text. It is updated as needed. Current version: 10/23/2024
