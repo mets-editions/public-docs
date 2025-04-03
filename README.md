@@ -1,8 +1,8 @@
 This repository contains documents that are helpful to users in understanding and navigating the Middle English Text Series editorial practices, both print and digital. Documentation for our production workflows is stored in the public-production-documentation repository.
 
-- METS Data Dictionary: this spreadsheet contains the definitions for the Categories metadata fields. It is updated as needed.Current version: 10/30/2024
+- METS Data Dictionary: this spreadsheet contains the definitions for the Categories metadata fields. It is updated as needed.Current version: 04/03/2025
   
-- Content Warnings: this spreadsheet contains the content warnings we have assigned to editions. It is updated as needed. Current version: 10/3/2024
+- Content Warnings: this spreadsheet contains the content warnings we have assigned to editions. It is updated as needed. As of 04/02/25, three new content warnings have been added: Death and destruction due to natural disasters; Graphic depictions of dead bodies and bodily decomposition; Slavery and indentured servitude. These will only be applied to new editions, not retroactively. Current version: 10/3/2024
 
 - METS TEI element dictionary: this document contains all TEI elements used to encode METS texts. Current version: 2/3/2025
 
