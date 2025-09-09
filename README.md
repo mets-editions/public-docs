@@ -6,7 +6,7 @@ This repository contains documents that are helpful to users in understanding an
 
 - METS TEI element dictionary: this document contains all TEI elements used to encode METS texts. Current version: 2/3/2025
 
-- METS Editions Categories Metadata spreadsheet: this spreadsheet contains the metadata assigned to each edition and text. It is updated as needed. Current version: 6/13/2025
+- METS Editions Categories Metadata spreadsheet: this spreadsheet contains the metadata assigned to each edition and text. It is updated as needed. Current version: 09/09/2025
 
 - Style Guide: this document contains METS' Style and Formatting Guide for print editions, organized by section. (This replicates the Style Guide on the website.) It is updated as needed. Current version: 2/6/25
 
