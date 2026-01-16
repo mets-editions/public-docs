@@ -4,7 +4,7 @@ This repository contains documents that are helpful to users in understanding an
   
 - Content Warnings: this spreadsheet contains the content warnings we have assigned to editions. It is updated as needed. As of 04/02/25, three new content warnings have been added: Death and destruction due to natural disasters; Graphic depictions of dead bodies and bodily decomposition; Slavery and indentured servitude. These will only be applied to new editions, not retroactively. Current version: 10/28/2025
 
-- METS TEI element dictionary: this document contains all TEI elements used to encode METS texts. Current version: 2/3/2025
+- METS TEI element dictionary: this document contains all TEI elements used to encode METS texts. Current version: 01/16/2026
 
 - METS Editions Categories Metadata spreadsheet: this spreadsheet contains the metadata assigned to each edition and text. It is updated as needed. Current version: 10/28/2025
 
