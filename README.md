@@ -8,8 +8,8 @@ This repository contains documents that are helpful to users in understanding an
 
 - METS Editions Categories Metadata spreadsheet: this spreadsheet contains the metadata assigned to each edition and text. It is updated as needed. Current version: 10/28/2025
 
-- Style Guide: this document contains METS' Style and Formatting Guide for print editions, organized by section. (This replicates the Style Guide on the website.) It is updated as needed. Current version: 2/6/25
+- Style Guide: this document contains METS' Style and Formatting Guide for print editions, organized by section. (This replicates the Style Guide on the website.) It is updated as needed. Current version: 01/22/26
 
-- Submission Instructions: this document contains instructions for Volume Editors when submitting full editions to METS. (This replicates the Submission Instructions on the website.) It is updated as needed. Current version: 2/6/25
+- Submission Instructions: this document contains instructions for Volume Editors when submitting full editions to METS. (This replicates the Submission Instructions on the website.) It is updated as needed. Current version: 01/22/26
   
 - METS schema: a schema file (.xsd) describing the subset of TEI elements used to encode METS texts.  Current version: June, 2024
